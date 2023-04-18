@@ -48,7 +48,7 @@ On clicking **Let's Start** the Game Begins.It revolves around a Boy who fights 
 
 
 ### Chapter 1
-This is the First Chapter of the **Hive Mind**.In this level we need to Retreive a Messsage hidden in a Maze.Inorder to do so we need to find an Exit path to escape.
+This is the First Chapter of the **Hive Mind**.In this level we need to Retreive a Messsage hidden in a **Maze**.Inorder to do so we need to find an Exit path to escape.
 
 ![Chapter 1](https://user-images.githubusercontent.com/112609866/232888035-08e3b62b-66aa-4d64-973d-75248aa73c97.png)
 
@@ -64,7 +64,7 @@ This is the First Chapter of the **Hive Mind**.In this level we need to Retreive
 
 
 ### Chapter 2
-This is the Second Chapter of the **Hive Mind**.In this level the retreived message takes Us to an External Website, THe Bitcon. Where the second clue is hidden. Find it.
+This is the Second Chapter of the **Hive Mind**.In this level the retreived message takes Us to an **External Website, The Bitcon**. Where the second clue is hidden. Find it. There is a Dead end for Incorrect answer and the user should try again inorder to proceed to the next level.
 
 ![Chapter 2](https://user-images.githubusercontent.com/112609866/232888456-d41f4a64-da20-45fb-bc32-23490d089606.png)
 
@@ -85,3 +85,50 @@ This is the Second Chapter of the **Hive Mind**.In this level the retreived mess
 
 
 
+### Chapter 3
+This is the Third Chapter of the **Hive Mind**.In this level we need to **Spot the difference** between two Images.It contains 5 Levels of Differences. For every Incorrect difference we've a dead end and the user begins to play again.
+
+![Chapter 3](https://user-images.githubusercontent.com/112609866/232892448-56e2d5aa-e82e-42a4-92ae-68da39dc731c.png)
+
+
+### Soft Skill 3
+
+##### Attention to detail: The puzzle could be a picture or image that has been slightly altered then the Other and we need to spot the difference. 
+
+***This Game measures the Soft Skill attention to detail where the user would need to pay close attention to the details of the picture to solve the puzzle.***
+
+![Difference](https://user-images.githubusercontent.com/112609866/232893107-00295ceb-b51c-402a-9430-292f20adfd4e.png)
+
+
+
+### Chapter 4  
+This is the Fourth Chapter of the **Hive Mind**.In this level we need to find the **Matching Cards** in a Grid within the **Time Limit** of **60s**. If you fail to complete the task under this time that is a Deadend. If it is Deadend! You must Restart the game.
+
+![Chapter 4](https://user-images.githubusercontent.com/112609866/232894704-c54b1f52-5683-40ba-83d5-6106335cd9f0.png)
+
+
+### Soft Skill 4
+
+##### Time management: The ability to prioritize tasks, manage time effectively, and meet deadlines while maintaining a high level of productivity.
+
+#### Emotional intelligence: The ability to understand and manage one's own emotions, as well as the emotions of others, and to respond appropriately to different situations. 
+
+***This Game measures two Soft Skills, Emotional Intelligence where the user would identify different emotion Emojis 😃😄😉🙂😑 and, Time Managament where the puzzle should be solved within the stipulated time.***
+
+![Screenshot (26)](https://user-images.githubusercontent.com/112609866/232894860-58a7ebe9-bb11-45d5-bce8-e49ff4b579ab.png)
+
+
+
+### Chapter 5
+This is the **Final Chapter** of the **Hive Mind**.In this level we need to Guess the Password based on the Hint given. If you fail to crack it,you must restart the Game.
+
+![Chapter 5](https://user-images.githubusercontent.com/112609866/232902881-0ab33326-be34-42c2-97ce-b9e7f6158217.png)
+
+
+### Soft Skill 5
+
+##### Communication: Communication: The ability to articulate ideas clearly and effectively, listen actively, and convey information through verbal, written, and nonverbal means. 
+
+***This Game measures the Soft Skill Communication where a description is given to communicate a password to the user without using the actual word or any part of it. The Soft Skill is assessed based on their ability to convey information effectively, using words or phrases that provide clues without giving away the answer.***
+
+![Password](https://user-images.githubusercontent.com/112609866/232903989-160a22cd-a95b-4b3b-8b44-ba7eb363a861.png)
