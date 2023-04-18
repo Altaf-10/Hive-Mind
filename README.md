@@ -12,14 +12,14 @@ The puzzle incorporates direct or subtle methods of measuring these soft skills.
 
 ## Tech Stack
 
-###Frontend : HTML,CSS,Javascript.
-###Backend : Pyhton(framework) , SQL(lite).
+### Frontend : HTML,CSS,Javascript.
+### Backend : Pyhton(framework) , SQL(lite).
 
 
 
 ## Documentation
 
-### SignUp Page
+### Signup Page
 New Users can Signup for the Game to start Playing.It has Simple Credentials like ***Username***,***Email***,***Password*** to create a simple account.
 
 ![Signup page](https://user-images.githubusercontent.com/112609866/232886566-4e08dfca-664f-49cd-82b5-88b4ed08709c.png)
