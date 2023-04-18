@@ -12,8 +12,8 @@ The puzzle incorporates direct or subtle methods of measuring these soft skills.
 
 ## Tech Stack
 
-***Frontend*** : HTML,CSS,Javascript.
-***Backend*** : Pyhton(framework) , SQL(lite).
+###Frontend : HTML,CSS,Javascript.
+###Backend : Pyhton(framework) , SQL(lite).
 
 
 
@@ -44,7 +44,7 @@ This is the Start of the Game.The ***Central Theme*** revolves around a boy Comm
 
 
 ### Introduction
-On clicking **Let's Start** the Game Begins.It revolves around a Boy who fights against the Machines to save the Human race.The Puzzle is divded into 5 Chapters where the Clue in each Chapter leades to another.
+On clicking **Let's Start** the Game Begins.It revolves around a Boy who fights against the Machines to save the Human race.The Puzzle is divded into **5 Chapters** where the Clue in each Chapter leades to another.
 
 
 ### Chapter 1
@@ -53,7 +53,7 @@ This is the First Chapter of the **Hive Mind**.In this level we need to Retreive
 ![Chapter 1](https://user-images.githubusercontent.com/112609866/232888035-08e3b62b-66aa-4d64-973d-75248aa73c97.png)
 
 
-**Soft Skill 1**
+### Soft Skill 1
 
 ##### Problem-solving: The ability to identify, analyze, and solve complex problems by considering multiple perspectives and developing effective solutions.
 
@@ -75,7 +75,7 @@ This is the Second Chapter of the **Hive Mind**.In this level the retreived mess
 ![Block](https://user-images.githubusercontent.com/112609866/232888894-2f5514ee-50be-40ed-96f3-bd1f1c224e68.png)
 
 
-**Soft Skill 2**
+### Soft Skill 2
 
 ##### Critical Thinking: Soft skill that involves analyzing and evaluating information to make informed decisions or solve complex problems.
 
