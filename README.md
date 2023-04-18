@@ -1,19 +1,19 @@
 # Hive-Mind
-Interactive Puzzle Application that can be solved on an online website.The aim of the puzzle is to assess the soft skills of its users (eg - eye for detail, perseverance, curiosity, etc.).
+Interactive Puzzle Application that can be solved on an online website.The aim of the puzzle is to assess the soft skills of its users (eg - eye for detail, perseverance, curiosity, etc.).The puzzle is built by hiding clues and treasures on the website. Each clue tells the user where to find the next clue, and the final clue leads to the treasure.
 
 ![Homepage](https://user-images.githubusercontent.com/112609866/232885986-87ec3bb1-c9f0-4f55-8e61-e555ff6114ee.png)
 
 ## Theme
 
 You must be familiar with the concept of a ***Treasure Hunt*** - a game in which players search for hidden objects by following a trail of clues,likewise this game is designed to assess the soft skills of its users. 
-The puzzle incorporates direct or subtle methods of measuring these soft skills. The puzzle is built by hiding clues and treasures on the website. Each clue tells the user where to find the next clue, and the final clue leads to the treasure.
+The puzzle incorporates direct or subtle methods of measuring these soft skills. 
 
 
 
 ## Tech Stack
 
-### Frontend : HTML,CSS,Javascript.
-### Backend : Flask(Python Framework),SQL(lite).
+***Frontend*** : HTML,CSS,Javascript.
+***Backend*** : Pyhton(framework) , SQL(lite).
 
 
 
