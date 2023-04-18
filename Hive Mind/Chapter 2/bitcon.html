@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bitcoin</title>
+    <link rel="stylesheet" href="bitcon.css">
+</head>
+<body>
+    <nav>
+        <p>Bitcoin</p>
+    </nav>
+    <hr class="one">
+    <div class="middle">
+        <h2>Find the hidden message</h2>
+        <p>Let's find the very first block in the bitcoin blockchain. Click the button below to open a <u>block explorer</u> exactly at block 0, which is called the genesis block.</p>
+        <p>Scroll down and expand the details on the one transaction that is stored in this block. Find the input called “Coinbase”. Now look for the label “SCRIPTSIG ( HEX )”. The value next to it is an encoded message.</p>
+        <p>Copy that value and paste it in the code block.</p>
+    </div>
+    <a href="https://blockstream.info/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f" target="_blank">View Block 0</a>
+    <hr class="two">
+    <div class="down" id="butt">
+        <h2>Paste the value you found here and press ENTER</h2>
+        <input type="text" id="coin" onchange="check()">
+    </div>
+    <script>
+        function check(){
+            const txt = document.getElementById('coin');
+            if (txt.value === "04ffff001d0104455468652054696d65732030332f4a616e2f32303039204368616e63656c6c6f72206f6e206272696e6b206f66207365636f6e64206261696c6f757420666f722062616e6b73"){
+                const x = document.createElement('button');
+                x.className = 'deco';
+                var go = function() {
+                    location.href = '../Chapter 3/chapter3.html';
+                }
+                x.addEventListener('click',go,false);
+                x.innerHTML = 'Decode';
+                document.getElementById('butt').appendChild(x);
+            }
+            else{
+                alert("Not Quite Right..!!");
+                if(confirm('Would You like to Try Again?')){
+                    location.href = 'chapter2.html';
+                }
+            }
+        }
+    </script>
+</body>
+</html>

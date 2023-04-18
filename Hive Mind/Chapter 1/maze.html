@@ -1,0 +1,31 @@
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <title>Maze</title>
+  <link rel="stylesheet" href="maze.css">
+</head>
+<body>
+<div id="gradient"></div>
+<div id="page">
+    <div id="Message-Container">
+    <div id="message">
+        <h1>Mission Accomplished!!</h1>
+        <p>Congratulations!</p>
+        <p id="moves"></p>
+        <input id="okBtn" type="button" onclick='toggleVisablity("Message-Container"); location.href="../Chapter 2/chapter2.html" ;' value="Retreive Message " />
+    </div>
+    </div>
+    <div id="menu">
+    <input id="startMazeBtn" type="button" onclick="makeMaze()" value="Play !" />
+    </div>
+    <div id="view">
+    <div id="mazeContainer">
+        <canvas id="mazeCanvas" class="border" height="1100" width="1100"></canvas>
+    </div>
+    </div>
+</div>
+<script src="maze.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.18/jquery.touchSwipe.min.js"></script>
+</body>
+</html>
