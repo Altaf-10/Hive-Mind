@@ -155,7 +155,7 @@ A dashboard for the admin where the progress of all the users is tracked & analy
 ## Deployment
 
 ### Create Environment : 
-`d:/Flask/env/Scripts/Activate.ps1`
+``` d:/Flask/env/Scripts/Activate.ps1 ```
 
 ### Run Flask file (app.py)
 `python -u "d:\Flask\app.py"`
