@@ -13,8 +13,8 @@ The puzzle incorporates direct or subtle methods of measuring these soft skills.
 
 ## Tech Stack
 
-### Frontend : HTML,CSS,Javascript.
-### Backend : Pyhton(framework) , SQL(lite).
+**Frontend** : HTML,CSS,Javascript.                               
+**Backend** : Pyhton(framework) , SQL(lite).
 
 
 
@@ -155,13 +155,13 @@ A dashboard for the admin where the progress of all the users is tracked & analy
 ## Deployment
 
 ### Create Environment : 
-`  d:/Flask/env/Scripts/Activate.ps1 `
+`d:/Flask/env/Scripts/Activate.ps1`
 
 ### Run Flask file (app.py)
-`  python -u "d:\Flask\app.py" `
+`python -u "d:\Flask\app.py"`
 
 ### To deploy the Project
-`  python -u "d:\Flask\app.py" `
+`python -u "d:\Flask\app.py"`
 
 
 ## Authors
