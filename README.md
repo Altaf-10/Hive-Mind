@@ -1,7 +1,8 @@
 # Hive-Mind
 Interactive Puzzle Application that can be solved on an online website.The aim of the puzzle is to assess the soft skills of its users (eg - eye for detail, perseverance, curiosity, etc.).The puzzle is built by hiding clues and treasures on the website. Each clue tells the user where to find the next clue, and the final clue leads to the treasure.
 
-![Homepage](https://user-images.githubusercontent.com/112609866/232885986-87ec3bb1-c9f0-4f55-8e61-e555ff6114ee.png)
+![Homepage](https://user-images.githubusercontent.com/112609866/232922498-c22ddde1-e601-4c04-a7f9-0a613da09deb.png)
+
 
 ## Theme
 
@@ -132,3 +133,37 @@ This is the **Final Chapter** of the **Hive Mind**.In this level we need to Gues
 ***This Game measures the Soft Skill Communication where a description is given to communicate a password to the user without using the actual word or any part of it. The Soft Skill is assessed based on their ability to convey information effectively, using words or phrases that provide clues without giving away the answer.***
 
 ![Password](https://user-images.githubusercontent.com/112609866/232903989-160a22cd-a95b-4b3b-8b44-ba7eb363a861.png)
+
+
+
+## Soft Skills Analysis
+
+Based on the User's Performance in each level, the skills corresponding to its respective level is calculated and a final Analysis is computed and displayed.
+The Soft Skills covered are ***Problem-Solving,Critical Thinking,Attention to detail,Time Management,Emotional Intelligence,Communication.***
+
+![Results](https://user-images.githubusercontent.com/112609866/232924574-89b3a588-061b-45d4-8c40-2a16063771f1.png)
+
+
+
+## Admin Login
+
+A dashboard for the admin where the progress of all the users is tracked & analyzed. 
+
+![Dashboard](https://user-images.githubusercontent.com/112609866/232924815-a9637a66-e0b4-4de1-bbff-be13f9194d00.png)
+
+
+## Deployment
+
+### Create Environment : 
+`  d:/Flask/env/Scripts/Activate.ps1 `
+
+### Run Flask file (app.py)
+`  python -u "d:\Flask\app.py" `
+
+### To deploy the Project
+`  python -u "d:\Flask\app.py" `
+
+
+## Authors
+
+* [Altaf Raza](https://github.com/Altaf-10)
