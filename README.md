@@ -14,7 +14,7 @@ The puzzle incorporates direct or subtle methods of measuring these soft skills.
 ## Tech Stack
 
 **Frontend** : HTML,CSS,Javascript.                               
-**Backend** : Pyhton(framework) , SQL(lite).
+**Backend** : Python (framework) , SQL(lite).
 
 
 
